@@ -1,0 +1,21 @@
+:root {
+  /* Colors */
+  --color-bg-primary: #0A0A0A;
+  --color-text-primary: #FFFFFF;
+  --color-accent: #2563EB;
+  --color-text-secondary: #9CA3AF;
+
+  /* Spacing */
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 32px;
+
+  /* Typography */
+  --font-size-h1-mobile: 2.25rem;
+  --font-size-h1-desktop: 6rem;
+  --font-weight-bold: 700;
+
+  /* Motion */
+  --motion-ease: cubic-bezier(0.16, 1, 0.3, 1);
+  --motion-duration: 300ms;
+}
