@@ -5,6 +5,8 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
+  basePath: "/axiom-artifacts",
+  assetPrefix: "/axiom-artifacts/",
   /* config options here */
   turbopack: {
     rules: {
